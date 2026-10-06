@@ -1,0 +1,5 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","7461","Login page","chromium","2026-08-05","passed","2026-08-05","","Loginpage.spec.js","",""
+"","7492","locked login","chromium","2026-08-05","passed","2026-08-05","","Loginpage.spec.js","",""
+"","7491","invalidlogin","chromium","2026-08-05","passed","2026-08-05","","Loginpage.spec.js","",""
+"","7770","Valid login","chromium","2026-08-05","passed","2026-08-05","","Loginpage.spec.js","",""
