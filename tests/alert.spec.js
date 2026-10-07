@@ -6,7 +6,7 @@ import {test,expect} from '@playwright/test'
     const a =await page.getByTestId('alert-button').click();
     page.on('dialog', async dialog => {
        // await dialog.dismiss(); //cancel, no, dismiss, close
-       console.log("******************************")
+     //  console.log("******************************")
        console.log(dialog.type());
         console.log(dialog.message());
         console.log("******************************")
